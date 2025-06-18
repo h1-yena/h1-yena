@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6852fcfe43682fe4e11921ac?variant=light)](https://roadmap.sh)
+
+# About me
+Hey there! I’m a software developer who loves building cool stuff and diving into anything new and exciting. Lately, I’ve been super curious about cybersecurity and game development—two worlds I’d love to explore more. I’m all about learning, experimenting, and having fun while doing it. 🧑‍💻
+
+Of course, I am always looking for new collaborations and new connections to learn and build something together!
 <!--
 **h1-yena/h1-yena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
